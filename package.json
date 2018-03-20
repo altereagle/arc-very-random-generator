@@ -1,0 +1,24 @@
+{
+  "name": "arc-very-random-generator",
+  "version": "1.0.0",
+  "description": "A random generator for Arc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altereagle/arc-very-random-generator.git"
+  },
+  "keywords": [
+    "Arc",
+    "Random",
+    "Generator"
+  ],
+  "author": "Kendell Joseph",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/altereagle/arc-very-random-generator/issues"
+  },
+  "homepage": "https://github.com/altereagle/arc-very-random-generator#readme"
+}
